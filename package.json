@@ -1,0 +1,30 @@
+{
+  "name": "live-code-editor",
+  "version": "1.0.0",
+  "description": "React application allowing online development and coding using HTML,CSS and JS, also having collaborative features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm start",
+    "server": "node server.js",
+    "start": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "Soumyadeepta Das-18BCE1350",
+  "engines": {
+    "node": "12.17.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "pusher": "^2.2.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.14",
+    "concurrently": "^6.2.0"
+  }
+}

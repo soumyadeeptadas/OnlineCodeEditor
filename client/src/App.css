@@ -1,0 +1,140 @@
+html {
+  box-sizing: border-box;
+  
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+/*header section styles*/
+.headersection{
+  content: attr(title);
+  align-items: center;
+  text-align: center;
+  font-size: larger;
+  padding: 16px;
+  background-color: #181d1c;
+  color: #fafafa;
+}
+
+/* section heading styles */
+.section-heading {
+  height: 40px;
+  content: attr(title);
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  font-size: 18px;
+  color: #fafafa;
+  background-color: #1E1E2C;
+  border-width:thin;
+  border-bottom-style:solid;
+  border-color:#1E1E2C;
+}
+
+
+/* file explorer section styles */
+.fileexplorersection{
+  float:left;
+  width: 12%;
+  top:0;
+  bottom:0;
+  height:100vh;
+  background-color:#2C2C32;
+  color:#fafafa;
+  border-width:thin;
+  border-right-style:solid;
+  border-color: aliceblue;
+}
+
+.filelist{
+  padding-top: 20px;
+  padding-left: 35px ;
+}
+
+ul li{
+  text-decoration: none;
+  cursor: pointer;
+  color: #fafafa;
+}
+
+ul li:hover{
+  background-color: #4d4d5c;
+}
+
+p{
+  padding-left: 5px;
+  padding-right:5px;
+  font-size: smaller;
+}
+
+#downloadButton{
+  margin-left: 20px;;
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 6px 6px;
+  cursor: pointer;
+  align-items: center;
+  text-align: center;
+  font-size: 16px;
+  position:absolute;
+  bottom:30px;
+}
+
+
+/* code editor section styles */
+.codeeditorsection {
+  float:left;
+  width: 43%;
+  background-color: #1E1E2C;
+  border-width:thin;
+  border-right-style:solid;
+  border-color: aliceblue;
+}
+
+.code-editor {
+  height: 31.6vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.editor-header {
+  height: 30px;
+  content: attr(title);
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  font-size: 14px;
+  color: #fafafa;
+}
+
+.react-codemirror2 {
+  height:100% !important;
+  
+  overflow: hidden;
+}
+
+.CodeMirror{
+  height:100% !important;
+}
+
+
+/* live view section styles */
+.liveviewsection {
+  float:left;
+  height:100vh;
+  width:45%;
+  overflow: hidden;
+  background-color: #1E1E2C;
+  border-width: medium;
+}
+
+.iframe {
+  width: 100%;
+  height: 100%;
+  background-color: #fafafa;
+}
