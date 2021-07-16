@@ -4,6 +4,10 @@
 ### Registration Number: 18BCE1350
 ### College: Vellore Institute of Technology, Chennai
 
+## project hosted on Github pages (link):
+https://soumyadeeptadas.github.io/dyte-code-editor/
+
+- frontend hosted in Githubpages, and backend api hosted on heroku for live demo app
 
 ## Features:
 - `File explorer`, to select from html, css and js file of the project and to load to code editor window
@@ -31,9 +35,10 @@
 
 
 ## Built With
-
+- [NodeJs](https://nodejs.org)
 - [React](https://reactjs.org)
 - [Pusher Channels](https://pusher.com/channels)
+- [Codemirror](https://codemirror.net/)
 
 ## Licence
 
