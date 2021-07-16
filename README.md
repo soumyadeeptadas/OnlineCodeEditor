@@ -38,10 +38,14 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 ## Screenshots
 
 - demo video: https://drive.google.com/file/d/1iiQ7tG3mospqjq7_Ha1klQWQV8f_YXMh/view?usp=sharing
-- some screenshots below
+- some screenshots below:
+- HTML editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1365).png)
+- CSS editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1366).png)
+- JS editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1367).png)
+- All 3 editor stacked on first load, further one editor can be picked from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1364).png)
 
 
