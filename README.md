@@ -37,7 +37,7 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 
 ## Screenshots
 
-- demo video: https://drive.google.com/file/d/1W38sglzmivLrBYgMj7IQrYWRFBauFHaG/view?usp=sharing
+- demo video: https://drive.google.com/file/d/1iiQ7tG3mospqjq7_Ha1klQWQV8f_YXMh/view?usp=sharing
 - some screenshots below
 
 
