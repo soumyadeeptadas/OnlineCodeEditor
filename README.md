@@ -16,7 +16,7 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 
 ## Features:
 - `File explorer`, to select from html, css and js file of the project and to load to code editor window
-- Text highlighted `Code Editor`, with line numbers, and dynamic rendering.
+- Text highlighted `Code Editor`, with line numbers and error detection, and dynamic rendering.
 - `Live View` dynamically renders the project from running the HTML, css and JS, providing seamless and fast development ability
 - `Collaboration Features`, the pplication can be run by different users at the same time to collaborate on the same project and edit and develop simulatenously
 - `Download Code`, downloads the 3 files in a siingle master file into local system, for further use
