@@ -22,7 +22,7 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 1. Clone this repository and `cd` into it.
 2. Execute `npm install` to download dependencies of the server side.
 3. `cd` into the client folder, run `npm install`  to install client side dependencies.
-4. `cd` back to root of project and Run `npm run start` to start the Express server.
+4. `cd back to root of project` and Run `npm run start` to start the Express server.
 6. Open http://localhost:3000 in your browser.
 
 ## Pre-requisites
