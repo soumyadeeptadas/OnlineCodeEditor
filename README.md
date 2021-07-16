@@ -10,6 +10,8 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 - frontend hosted in Githubpages, and backend api hosted on heroku for live demo app
 - above link can be opened by multiple users to collaborate.
 
+
+
 ## Features:
 - `File explorer`, to select from html, css and js file of the project and to load to code editor window
 - Text highlighted `Code Editor`, with line numbers, and dynamic rendering.
@@ -33,7 +35,7 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 
 ## Screenshots
 
-- demo video: https://drive.google.com/file/d/1av-uXZVeeOE55ZBBHEjGiUDPYY_IjcA_/view?usp=sharing
+- demo video: https://drive.google.com/file/d/1W38sglzmivLrBYgMj7IQrYWRFBauFHaG/view?usp=sharing
 - some screenshots below
 
 
