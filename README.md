@@ -35,17 +35,21 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 - [Node.js](https://nodejs.org/en) and npm
 
 
+## demo video: 
+- https://drive.google.com/file/d/1iiQ7tG3mospqjq7_Ha1klQWQV8f_YXMh/view?usp=sharing
+
 ## Screenshots
 
-- demo video: https://drive.google.com/file/d/1iiQ7tG3mospqjq7_Ha1klQWQV8f_YXMh/view?usp=sharing
-- some screenshots below:
-- HTML editor selected from file selector
+#### HTML editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1365).png)
-- CSS editor selected from file selector
+
+#### CSS editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1366).png)
-- JS editor selected from file selector
+
+#### JS editor selected from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1367).png)
-- All 3 editor stacked on first load, further one editor can be picked from file selector
+
+#### All 3 editor stacked on first load, further one editor can be picked from file selector
 ![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1364).png)
 
 
@@ -55,6 +59,6 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 - [Pusher Channels](https://pusher.com/channels)
 - [Codemirror](https://codemirror.net/)
 
-## Licence
+## Licences
 
 [MIT](https://opensource.org/licenses/MIT)
