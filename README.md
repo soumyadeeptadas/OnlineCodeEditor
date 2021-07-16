@@ -39,6 +39,10 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 
 - demo video: https://drive.google.com/file/d/1iiQ7tG3mospqjq7_Ha1klQWQV8f_YXMh/view?usp=sharing
 - some screenshots below
+![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1365).png)
+![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1366).png)
+![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1367).png)
+![screenshot](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/screenshots/Screenshot%20(1364).png)
 
 
 ## Built With
