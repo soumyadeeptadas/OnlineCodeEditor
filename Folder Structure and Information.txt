@@ -1,0 +1,28 @@
+Folder Structure:
+
+
+-root
+|
+|--package.json			//server side file
+|--server.js			//server side file
+|--.env				//server side file
+|--.gitignore			
+|--README.md			//Instructions and info
+|--/client			//client side folder
+	|--.gitignore
+	|--package.json
+	|
+	|--/public
+	|	|--favicon.ico
+	|	|--index.html
+	|	|--manifest.json
+	|
+	|
+	|--/src
+		|--App.js
+		|--App.css
+		|--App.test.js
+		|--index.js
+		|--index.css
+		|--logo.svg
+		|--serviceWorker.js
