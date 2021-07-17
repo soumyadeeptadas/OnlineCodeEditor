@@ -30,6 +30,10 @@ https://soumyadeeptadas.github.io/dyte-code-editor/
 4. `cd back to root of project` and Run `npm run start` to start the Express server.
 6. Open http://localhost:3000 in your browser.
 
+
+## Project and folder structure info
+- [Here](https://github.com/soumyadeeptadas/OnlineCodeEditor-SoumyadeeptaDas-18BCE1350/blob/master/Folder%20Structure%20and%20Information.txt)
+
 ## Pre-requisites
 
 - [Node.js](https://nodejs.org/en) and npm
