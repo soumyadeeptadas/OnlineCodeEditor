@@ -1,8 +1,6 @@
 # Online Code Editor using React and NodeJS, with collaboration features
 
-## by: Soumyadeepta Das
-### Registration Number: 18BCE1350
-### College: Vellore Institute of Technology, Chennai
+
 
 
 
